@@ -61,11 +61,14 @@ Present three concise case studies. Each includes the business context, Owen's c
 
 Group skills around Java backend, data and messaging, deployment, and AI-assisted delivery. Avoid exhaustive résumé-style lists.
 
+Include a dedicated bilingual **OneDev CI/CD & Live Preview** proof block. It shows branch-aware builds, lockfile-based dependency installation with cache reuse, backend tests before Docker deployment, isolated frontend and backend pull-request preview environments, published preview links, and cleanup after merge or discard. Do not expose raw build configuration, credentials, internal infrastructure names, or internal URLs.
+
 ### Contact
 
 - Primary: public email from the résumé.
 - Secondary: LinkedIn, `https://www.linkedin.com/in/owen-zou/`.
 - Supporting verification: overall GitHub profile, `https://github.com/Lilb1tty`.
+- Invitation copy: "Interested in my skills or experience? Feel free to get in touch."
 
 ## Implementation
 

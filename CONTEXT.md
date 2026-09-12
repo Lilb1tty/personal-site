@@ -40,6 +40,10 @@ _Avoid_: Social links
 The owner's public email and LinkedIn profile, through which a recruiter can contact the owner.
 _Avoid_: Résumé download, contact form
 
+**CI/CD & Live Preview**:
+A recruiter-facing proof block within Technical Skills that describes the owner's OneDev delivery workflow: branch-aware builds, test-gated container deployment, pull-request preview environments, published preview URLs, and cleanup after merge or discard. It contains public outcomes only, never raw build configuration, credentials, or internal infrastructure details.
+_Avoid_: Raw YAML, deployment secrets, internal URLs
+
 **Public Details**:
 The Portfolio shows the owner's name, role, email, LinkedIn, and GitHub only. It does not show age, phone number, location, or a résumé download.
 _Avoid_: Résumé details, personal profile
